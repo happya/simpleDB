@@ -1,4 +1,4 @@
-# simpleDB1
+# simpleDB
 SimpleDB consists of:
 
 - Classes that represent fields, tuples, and tuple schemas;
